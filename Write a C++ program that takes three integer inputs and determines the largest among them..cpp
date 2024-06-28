@@ -11,15 +11,15 @@ int main()
     cin>>num3;
     if(num1>num2 and num1>num3)
     {
-        cout<<"\n num1 is greater number";
+        cout<<"\n num1 is largest number";
     }
     else if(num2>num3 and num2>num1)
     {
-        cout<<"\n num2 is greater number";
+        cout<<"\n num2 is largest number";
     }
     else
     {
-        cout<<"\n num3 is greater number";
+        cout<<"\n num3 is largest number";
     }
 
 
