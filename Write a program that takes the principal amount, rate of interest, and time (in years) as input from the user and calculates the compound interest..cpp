@@ -28,7 +28,7 @@ int main() {
     double amount = principal * pow((1 + rate / numberOfCompounds), numberOfCompounds * time);
     compoundInterest = amount - principal;
 
-    // Output the result
+
     cout << "The compound interest is: " << compoundInterest << endl;
 
 
